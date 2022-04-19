@@ -4,19 +4,10 @@
 
 <p align="center"><a href="https://github.com/akiritsu/pRoJEct-VeXEd"><img src="src/assets/img/favicon.png" alt="Logo" width="125" height="125"></a></p>
 
-<div align="center">
-  
-  - Documentació
-  
-  - Llicència  
-  
-</div>
+- [Documentació](https://github.com/akiritsu/pRoJEct-VeXEd/blob/master/README.md)
+- [Llicència](https://github.com/akiritsu/pRoJEct-VeXEd/blob/master/LICENSE.md)
 
-<p align="center">—<a href="https://github.com/akiritsu/pRoJEct-VeXEd/blob/master/README.md">Documentació</a>.</p>
-
-<p align="center">—<a href="https://github.com/akiritsu/pRoJEct-VeXEd/blob/master/LICENSE.md">Llicència</a>.</p>
-
-<h2>Llicència</h2>
+## Llicència
 
 [![MIT License][license-shield]][license-url]
 
