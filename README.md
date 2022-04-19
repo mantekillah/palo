@@ -8,15 +8,11 @@
 
 <h3 align="center">Llicència</h3>
 
-<p align="center">Distribuït sota llicència MIT.</p>
-
 <div align="center">
   
   [![MIT License][license-shield]][license-url]
 
 </div>
 
-<p align="center"><a href="https://github.com/mantekillah/palo/blob/master/LICENSE"><img="https://img.shields.io/github/license/mantekillah/palo.svg" alt="License"></a></p>
-
-[license-shield]: https://img.shields.io/github/license/akiritsu/pRoJEct-VeXEd.svg?style=flat-square
-[license-url]: https://github.com/akiritsu/pRoJEct-VeXEd/blob/master/LICENSE
+[license-shield]: https://img.shields.io/github/license/mantekillah/palo.svg
+[license-url]: https://github.com/mantekillah/palo/blob/master/LICENSE
