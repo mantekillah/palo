@@ -1,6 +1,6 @@
 <h1 align="center">lı★ıl PⒶLⓄ — BLZ Corp.</h1>
 
-<a href="https://pages.github.com">GitHub Page</a> basada en el tema per a <a href="https://jekyllrb.com">Jekyll</a> de <a href="https://github.com/akiritsu">DeerRIDER</a>: <a href="https://github.com/akiritsu/pRoJEct-VeXEd"><i>pRoJEct-VeXEd</i></a>.
+<p align="center"><a href="https://pages.github.com">GitHub Page</a> basada en el tema per a <a href="https://jekyllrb.com">Jekyll</a> de <a href="https://github.com/akiritsu">DeerRIDER</a>: <a href="https://github.com/akiritsu/pRoJEct-VeXEd"><i>pRoJEct-VeXEd</i></a>.</p>
 
 <h3 align="center">Enllaç del projecte original i a la seva documentació</h3>
 
