@@ -2,11 +2,9 @@
 
 <p align="center"><a href="https://pages.github.com">GitHub Page</a> basada en el tema per a <a href="https://jekyllrb.com">Jekyll</a> de <a href="https://github.com/akiritsu">DeerRIDER</a>:</p>
 
-<p align="center"><i>pRoJEct-VeXEd</i></p>
-
-<h3 align="center">Enllaç del projecte original i de la seva documentació</h3>
-
 <p align="center"><a href="https://github.com/akiritsu/pRoJEct-VeXEd"><img src="src/assets/img/favicon.png" alt="Logo" width="125" height="125"></p>
+  
+<p align="center">Fes click a la imatge per accedir a la pàgina del projecte original i a la seva documentació.</p>
 
 <h3 align="center">Llicència</h3>
 
