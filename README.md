@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://github.com/akiritsu/pRoJEct-VeXEd"><img src="src/assets/img/favicon.png" alt="Logo" width="130" height="130"></a></p>
 
-GitHub Page basada en el tema per a Jekyll '[pRoJEct-VeXEd](https://github.com/akiritsu/pRoJEct-VeXEd)'(v.2.4) de [DeerRIDER](https://github.com/akiritsu).
+GitHub Page basada en el tema per a Jekyll '[*pRoJEct-VeXEd*](https://github.com/akiritsu/pRoJEct-VeXEd)'(v. 2.4) de [**DeerRIDER**](https://github.com/akiritsu).
 
 ## License
 
