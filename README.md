@@ -10,7 +10,7 @@
 
 <p align="center">Distribuït sota llicència MIT.</p>
 
-[![MIT License][license-shield]][license-url]
+<p align="center">[![MIT License][license-shield]][license-url]</p>
 
 <p align="center"><a href="https://github.com/mantekillah/palo/blob/master/LICENSE"><img="https://img.shields.io/github/license/mantekillah/palo.svg" alt="License"></a></p>
 
