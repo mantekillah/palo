@@ -4,7 +4,7 @@
 <p align="center"><a href="https://github.com/akiritsu/pRoJEct-VeXEd"><img src="src/assets/img/favicon.png" alt="Logo" width="130" height="130"></a></p>
 <p align="center">de <a href="https://github.com/akiritsu"><b>DeerRIDER</b></a>.</p>
 
-## Llicència
+### Llicència
 
 Distribuït sota llicència MIT. Vegeu `LICENSE` per a més informació.
 
