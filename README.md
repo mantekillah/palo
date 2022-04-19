@@ -4,9 +4,9 @@
 
 <i>pRoJEct-VeXEd</i>
 
-<h3 align="center">Enllaç del projecte original i a la seva documentació</h3>
+<h3 align="center">Enllaç del projecte original i de la seva documentació</h3>
 
-<p align="center"><a href="https://github.com/akiritsu/pRoJEct-VeXEd"><img src="src/assets/img/favicon.png" alt="Logo" width="150" height="150"><img src="src/assets/img/favicon.png" alt="Logo" width="150" height="150"><img src="src/assets/img/favicon.png" alt="Logo" width="150" height="150"></a></p>
+<p align="center"><a href="https://github.com/akiritsu/pRoJEct-VeXEd"><img src="src/assets/img/favicon.png" alt="Logo" width="80" height="80"></p>
 
 <h3 align="center">Llicència</h3>
 
