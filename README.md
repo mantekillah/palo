@@ -2,7 +2,7 @@
 
 [GitHub Page](https://pages.github.com) basada en el tema per a [Jekyll](https://jekyllrb.com) de [DeerRIDER](https://github.com/akiritsu):
 
-<a href="https://github.com/akiritsu/pRoJEct-VeXEd"><img src="src/assets/img/favicon.png" alt="Logo" width="125" height="125"></a>
+<a href="https://github.com/akiritsu/pRoJEct-VeXEd"><img src="src/assets/img/favicon.png" alt="Logo" width="111" height="111"></a>
 
 - [Documentació original](https://github.com/akiritsu/pRoJEct-VeXEd/blob/master/README.md)
 - [Llicència original](https://github.com/akiritsu/pRoJEct-VeXEd/blob/master/LICENSE.md)
