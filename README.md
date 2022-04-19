@@ -8,7 +8,7 @@
 
 <h3 align="center">Llicència</h3>
 
-Distribuït sota llicència MIT.
+<p align="center">Distribuït sota llicència MIT.</p>
 
 [![MIT License][license-shield]][license-url]
 
