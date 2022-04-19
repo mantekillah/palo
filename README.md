@@ -8,13 +8,9 @@
 
 <p align="center">—<a href="https://github.com/akiritsu/pRoJEct-VeXEd/blob/master/LICENSE.md">Llicència</a>.</p>
 
-<h2 align="center">Llicència</h2>
+<h2>Llicència</h2>
 
-<div align="center">
-  
-  [![MIT License][license-shield]][license-url]
-
-</div>
+[![MIT License][license-shield]][license-url]
 
 [license-shield]: https://img.shields.io/github/license/mantekillah/palo.svg
 [license-url]: https://github.com/mantekillah/palo/blob/master/LICENSE
