@@ -12,5 +12,7 @@
 
 [![MIT License][license-shield]][license-url]
 
+<p align="center"><a href="https://github.com/mantekillah/palo/blob/master/LICENSE"><img scr="https://img.shields.io/github/license/mantekillah/palo.svg" alt="License"></a></p>
+
 [license-shield]: https://img.shields.io/github/license/akiritsu/pRoJEct-VeXEd.svg?style=flat-square
 [license-url]: https://github.com/akiritsu/pRoJEct-VeXEd/blob/master/LICENSE
