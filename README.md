@@ -1,6 +1,8 @@
 <h1 align="center">卩ΛLӨ爪ΛƬЯiX
 
-卩卂LӨ爪卂Ƭ尺i乂</h1>
+卩卂LӨ爪卂Ƭ尺i乂
+
+ｱﾑﾚのﾶﾑｲ尺ﾉﾒ</h1>
 
 <p align="center"><a href="https://pages.github.com">GitHub Page</a> basada en el tema per a <a href="https://jekyllrb.com">Jekyll</a></p>
 <p align="center"><a href="https://github.com/akiritsu/pRoJEct-VeXEd"><img src="src/assets/img/favicon.png" alt="Logo" width="130" height="130"></a></p>
