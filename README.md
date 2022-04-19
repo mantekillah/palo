@@ -1,4 +1,4 @@
-<h1 align="center">lı★ıl PⒶLⓄ — BLZ Corp.</h1>
+<h1 align="center">lı★ıl PⒶLⓄ * — BLZ Corp.</h1>
 
 [GitHub Page](https://pages.github.com) basada en el tema per a [Jekyll](https://jekyllrb.com) de [DeerRIDER](https://github.com/akiritsu):
 
