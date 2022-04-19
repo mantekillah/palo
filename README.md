@@ -1,8 +1,9 @@
-# GitHub Page basada en 'pRoJEct-VeXEd v 2.4' de
+## palo
 
 <p align="center"><a href="https://github.com/akiritsu/pRoJEct-VeXEd"><img src="src/assets/img/favicon.png" alt="Logo" width="130" height="130"></a></p>
 
-<!-- LICENSE -->
+GitHub Page basada en el tema per a Jekyll '[pRoJEct-VeXEd](https://github.com/akiritsu/pRoJEct-VeXEd)'(v.2.4) de [DeerRIDER](https://github.com/akiritsu).
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
