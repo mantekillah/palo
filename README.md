@@ -6,7 +6,7 @@
 
 <p align="center"><a href="https://github.com/akiritsu/pRoJEct-VeXEd"><img src="src/assets/img/favicon.png" alt="Logo" width="150" height="150"><img src="src/assets/img/favicon.png" alt="Logo" width="150" height="150"><img src="src/assets/img/favicon.png" alt="Logo" width="150" height="150"></a></p>
 
-### Llicència
+<h3 align="center">Llicència</h3>
 
 Distribuït sota llicència MIT.
 
