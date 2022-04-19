@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://pages.github.com">GitHub Page</a> basada en el tema per a <a href="https://jekyllrb.com">Jekyll</a> de <a href="https://github.com/akiritsu">DeerRIDER</a>:</p>
 
-<i>pRoJEct-VeXEd</i>
+<p align="center"><i>pRoJEct-VeXEd</i></p>
 
 <h3 align="center">Enllaç del projecte original i de la seva documentació</h3>
 
