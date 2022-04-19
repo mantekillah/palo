@@ -5,7 +5,7 @@
 <a href="https://github.com/akiritsu/pRoJEct-VeXEd"><img src="src/assets/img/favicon.png" alt="Logo" width="111" height="111"></a>
 
 - [Documentació original](https://github.com/akiritsu/pRoJEct-VeXEd/blob/master/README.md)
-- [Llicència original](https://github.com/akiritsu/pRoJEct-VeXEd/blob/master/LICENSE.md)
+- [Llicència original](https://github.com/akiritsu/pRoJEct-VeXEd/blob/master/LICENSE)
 
 ## Llicència
 
