@@ -6,7 +6,7 @@
 
 ### Llicència
 
-Distribuït sota llicència MIT. Vegeu `LICENSE` per a més informació.
+Distribuït sota llicència MIT.
 
 [![MIT License][license-shield]][license-url]
 
