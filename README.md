@@ -8,7 +8,7 @@
 
 </div>
 
-<a href="https://github.com/akiritsu/pRoJEct-VeXEd"><img src="src/assets/img/favicon.png" alt="Logo" width="100" height="100"></a>
+<p align="center"><a href="https://github.com/akiritsu/pRoJEct-VeXEd"><img src="src/assets/img/favicon.png" alt="Logo" width="100" height="100"></a></p>
 <div align="center">
 
 [Documentació original](https://github.com/akiritsu/pRoJEct-VeXEd/blob/master/README.md)
