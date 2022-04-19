@@ -9,8 +9,8 @@
 </div>
 
 <a href="https://github.com/akiritsu/pRoJEct-VeXEd"><img src="src/assets/img/favicon.png" alt="Logo" width="100" height="100"></a>
-<p align="center">[Documentació original](https://github.com/akiritsu/pRoJEct-VeXEd/blob/master/README.md)</p>
-<p align="center">[Llicència original](https://github.com/akiritsu/pRoJEct-VeXEd/blob/master/LICENSE)</p>
+<div align="center">[Documentació original](https://github.com/akiritsu/pRoJEct-VeXEd/blob/master/README.md)</div>
+<div align="center">[Llicència original](https://github.com/akiritsu/pRoJEct-VeXEd/blob/master/LICENSE)</div>
 
 [license-shield]: https://img.shields.io/github/license/mantekillah/palo.svg
 [license-url]: https://github.com/mantekillah/palo/blob/master/LICENSE
