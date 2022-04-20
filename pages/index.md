@@ -33,13 +33,13 @@ for i in range(n):
     print ("%d" %arr[i]),
 ```
 
-## More Samples
+## H2
 
-### Font style and link
+### H3
 
 normal **bold** _italic_ ~~strikethrough~~ `keyword` [Link to Google](https://google.com)
 
-### List
+### H3
 
 1. ordered list item 1
    1. sublist
@@ -48,7 +48,7 @@ normal **bold** _italic_ ~~strikethrough~~ `keyword` [Link to Google](https://go
 - unordered list
   - sublist
 
-### Table
+### H3
 
 | Date         | Version   | Size    | Comment                |
 | :----------- | :-------- | :------ | :--------------------- |
@@ -57,13 +57,27 @@ normal **bold** _italic_ ~~strikethrough~~ `keyword` [Link to Google](https://go
 | Nov 13, 2018 | v2.14c    | 12kb    | No irreversible damage |
 | Nov 15, 2018 | v1.99 LTS | 4kb     | Irreversible damage    |
 
-### More Texts
+### H3
+
+#### H4
+
+```mermaid
+pie
+    title Pie Chart
+    "Dogs" : 36
+    "Cats" : 85
+    "Rats" : 150
+    "Pheonix" : 120
+    "Elephant" : 330 
+```
+
+### H3
 
 Λορεμ ιπσθμ δολορ σιτ αμετ, νονθμυ δολορεσ πρινcιπεσ εαμ αν, ρεγιονε σθσcιπιτ αccθσατα νε πρι, εα εαμ γραεcο μελιθσ αccθσαμ. Vολθπτθα δισσεντιασ τε ηασ, τε πρι σθασ ηαρθμ αδιπισcινγ. Qθο ατ ιθστο ταcιματεσ, μελ εραντ ρεπθδιανδαε ετ. Ετ τιμεαμ cονcεπταμ αccομμοδαρε νεc, ιδ σεα μελιορε λθπτατθμ. Αδ περσεcθτι cοντεντιονεσ θσθ. Ηομερο νοστρο θταμθρ εαμ εξ.
 
 Νεc ιδ λεγερε ρεγιονε διcερετ, vιμ εθ νιβη ιριθρε cορπορα. Αδ vιξ διcο νατθμ εσσεντ. Ιλλθδ αλιqθιδ ει σιτ, δοcτθσ vιδισσε δετραξιτ αν μεα. Ιλλθδ qθανδο ιντεγρε εξ vιμ, εοσ θτ μθνερε τριτανι ποσιδονιθμ, αν cετεροσ περσεqθερισ σιτ. Λατινε δισcερε vοcιβθσ πρι νο, vιμ cθ νοστρο μαλθισσετ vολθπταρια.
 
-### More Codes
+##### H5
 
 ```python
 # Python program for implementation of Quicksort Sort
