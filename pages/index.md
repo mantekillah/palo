@@ -42,14 +42,6 @@ for i in range(n):
     print ("%d" %arr[i]),
 ```
 
-## Download and Documentation
-
-[**pRoJEct VeXEd README (Github)**](https://github.com/akiritsu/pRoJEct-VeXEd)
-
-[Download ZIP files](https://codeload.github.com/akiritsu/pRoJEct-VeXEd/zip/master)
-
-[中文自述及使用教程](https://akiritsu.github.io/pRoJEct-VeXEd/readme-zhcn/)
-
 ## More Samples
 
 ### Font style and link
