@@ -6,7 +6,6 @@ baseurl             : "/palo"
 permalink           : /:title/
 description         : "My personal hacker-style website."
 markdown            : kramdown
-statement           : "DON'T GROW UP, IT'S A TRAP!"
 bgtext              : "ABCÇFGHKLMNÑPQRSVWXYZabcçdefghijklmnñopqrstuvwxyz@#$%&*+-;/[]<>~0123456789¡!¿?¬€~" # texts randomly displayed in background
 
 # 2. Your Collections
