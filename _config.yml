@@ -81,14 +81,14 @@ defaults:
       footer              : true        # whether show footer by default
 
 # 4. Social Media Accounts
-email               : "mailto://mantekillah@pm.me"
-linkedin            : ""
+email               : "mantekillah@pm.me"
+linkedin            : 
 github              : "mantekillah" 
-gitlab              : ""
+gitlab              : 
 website             : "https://mantekillah.github.io/palo"
 twitter             : "aintyabro"
 instagram           : "blz.reborn"
-youtube             : ""
+youtube             : 
 steam               : "mantekillah"
       
 # 5. Where things are
