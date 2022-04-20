@@ -12,26 +12,17 @@ encrypted_text: true
 permalink: /
 ---
 
-# • lı★ıl • BLZ • Mantekillah •
+# lı★ıl (H1)
 
 <br>
-> eX-pRoJEct-NeGYa
+> AQUEST ÉS UN TEXT DE PROVA.
 
-## Features
+## H2
 
-- Highly customizable with user-friendly hacker-like design.
-- Easy to gather your notes or portfolios with multiple collection design.
-- Supports formula insertion with `MathJax`.
+Text de prova nº I.
 
-$$
-\mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
-\mathbf{i} & \mathbf{j} & \mathbf{k} \\
-\frac{\partial X}{\partial u} &  \frac{\partial Y}{\partial u} & 0 \\
-\frac{\partial X}{\partial v} &  \frac{\partial Y}{\partial v} & 0 \\
-\end{vmatrix}
-$$
-
-- Supports code highlight with `Rouge`.
+- Text de prova nº II.
+- HANAKO LOKO? `HANAKO LOKO SALT`.
 
 ```python
 arr = [10, 7, 8, 9, 1, 5]
