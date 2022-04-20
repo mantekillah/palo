@@ -29,6 +29,13 @@
         </i>
       </a>
       {% endif %}
+      <!-- steam -->
+      {% if site.steam %}
+      <a class="footer_btn" href="https://steamcommunity.com/id/{{ site.steam }}" target="_blank">
+        <i class="fa fa-steam">
+        </i>
+      </a>
+      {% endif %}
       <!-- youtube -->
       {% if site.youtube %}
       <a class="footer_btn" href="https://www.youtube.com/user/{{ site.youtube }}" target="_blank">
@@ -43,14 +50,7 @@
         </i>
       </a>
       {% endif %}
-      <!-- steam -->
-      {% if site.steam %}
-      <a class="footer_btn" href="https://steamcommunity.com/id/{{ site.steam }}" target="_blank">
-        <i class="fa fa-steam">
-        </i>
-      </a>
-      {% endif %}
-    </ul>
+	</ul>
     <!-- copyright -->
     <ul class="footer_copyright">
       <li class="copyright">© 2022 • <a href="https://github.com/mantekillah" target="_blank">BLZ Corp.</a> • DON'T GROW UP, IT'S A TRAP!</li>
