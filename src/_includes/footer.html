@@ -97,6 +97,16 @@
         </i>
       </a>
       {% endif %}
+	  <!-- twitch -->
+      {% if site.instagram %}
+      <a class="footer_btn" href="https://twitch.tv/{{ site.twitch }}">
+        <i class="fa fa-twitch">
+          {% if page.btn_text != false %}
+          <p>Twitch</p>
+          {% endif %}
+        </i>
+      </a>
+      {% endif %}
       <!-- steam -->
       {% if site.steam %}
       <a
