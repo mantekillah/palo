@@ -51,7 +51,7 @@ function toggle_maximize() {
         ctner.style.height = "97%";
         ctner.style.maxWidth = "1350px";
         if (document.getElementById("mxmz_text")) {
-            document.getElementById("mxmz_text").innerHTML = "Maximize";
+            document.getElementById("mxmz_text").innerHTML = "Maximitza";
         }
         ctner_state = 0;
     }
