@@ -1,6 +1,6 @@
 ---
 title: Text Styles and Markdown Quick Reference
-author: DeerRIDER
+author: BLZ
 post_list: "date"
 collection_list: true
 toc: true
