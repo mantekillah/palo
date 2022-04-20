@@ -6,8 +6,8 @@ baseurl             : "/palo"
 permalink           : /:title/
 description         : "My personal hacker-style website."
 markdown            : kramdown
-statement           : "BLZ. DON'T GROW UP, IT'S A TRAP!"
-bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]<>~" # texts randomly displayed in background
+statement           : "DON'T GROW UP, IT'S A TRAP!"
+bgtext              : "ABCÇFGHKLMNÑPQRSVWXYZabcçdefghijklmnñopqrstuvwxyz@#$%&*+-;/[]<>~0123456789¡!¿?¬€~" # texts randomly displayed in background
 
 # 2. Your Collections
 # You can specify the order shown in Archive window. 
