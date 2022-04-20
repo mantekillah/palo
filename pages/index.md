@@ -6,7 +6,7 @@ comment: true
 home_btn: true
 btn_text: true
 footer: true
-title: "lı★ıl • PⒶLⓄ • lı★ıl"
+title: "lı★ıl • BLZ • DON'T GROW UP, IT'S A TRAP!"
 author: ""
 encrypted_text: true
 permalink: /
