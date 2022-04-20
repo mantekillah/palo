@@ -70,13 +70,6 @@
   .btn_icon {
     font-size: $header-btn-icon-size;
   }
-  .access_token {
-    resize: none;
-    float: right;
-    width: 5.5em;
-    display: inline-flexbox;
-    margin: 0px 5px;
-  }
 }
 // screen auto-adjustment
 @media screen and (max-width: 800px) {
