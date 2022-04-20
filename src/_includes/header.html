@@ -40,27 +40,11 @@
             <!-- right header -->
             <span class="span_right">
               {% if page.toc != false %}
-              <!-- scroll up -->
-              <a class="header_btn" onclick="scroll_percentage(-0.88)">
-                <i class="fa btn_icon fa-backward">
-                  {% if page.btn_text != false %}
-                  <p class="btn_text">Prev</p>
-                  {% endif %}
-                </i>
-              </a>
-              <!-- scroll down -->
-              <a class="header_btn" onclick="scroll_percentage(0.88)">
-                <i class="fa btn_icon fa-forward">
-                  {% if page.btn_text != false %}
-                  <p class="btn_text">Next</p>
-                  {% endif %}
-                </i>
-              </a>
               <!-- popup table of content -->
               <a class="header_btn popup_btn" onclick="toggle_toc()">
                 <i class="fa btn_icon fa-list">
                   {% if page.btn_text != false %}
-                  <p class="btn_text">Content</p>
+                  <p class="btn_text">Contingut</p>
                   {% endif %}
                 </i>
               </a>
