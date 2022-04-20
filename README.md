@@ -25,7 +25,7 @@
 
 - He eliminat la funcionalitat del token
 - He eliminat la funcionalitat de disqus
-- Canvis menors
+- Canvis menors i/o d'estil
 
 [license-shield]: https://img.shields.io/github/license/mantekillah/palo.svg
 [license-url]: https://github.com/mantekillah/palo/blob/master/LICENSE
