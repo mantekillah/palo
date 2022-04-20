@@ -12,7 +12,7 @@ encrypted_text: true
 permalink: /
 ---
 
-# PROJECT VeXEd - HACKER-STYLE PERSONAL HOMEPAGE
+# • lı★ıl • BLZ • Mantekillah •
 
 <br>
 > eX-pRoJEct-NeGYa
