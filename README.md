@@ -23,6 +23,7 @@
 
 ## Canvis
 
+- He eliminat la funcionalitat del token
 - 
 
 [license-shield]: https://img.shields.io/github/license/mantekillah/palo.svg
