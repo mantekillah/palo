@@ -42,7 +42,7 @@ function toggle_maximize() {
         ctner.style.height = "100%";
         ctner.style.maxWidth = "100%";
         if (document.getElementById("mxmz_text")) {
-            document.getElementById("mxmz_text").innerHTML = "Restore";
+            document.getElementById("mxmz_text").innerHTML = "Restaura";
         }
         ctner_state = 1;
     } else if (ctner_state == 1) {

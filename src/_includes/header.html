@@ -11,7 +11,7 @@
               <a class="header_btn" onclick="open_collection_list()">
                 <i class="fa btn_icon fa-bars">
                   {% if page.btn_text != false %}
-                  <p class="btn_text">Archives</p>
+                  <p class="btn_text">Menú</p>
                   {% endif %}
                 </i>
               </a>
@@ -99,11 +99,4 @@
   var ctner_state = 0;
   var ctner = document.getElementById("ctner");
 </script>
-{% endif %}
-<!-- encrypt and decrypt -->
-{% if page.encrypted_text == true %}
-<script
-  src="{{ site.url }}{{ site.baseurl }}/src/assets/js/sjcl.js"
-  async
-></script>
 {% endif %}
