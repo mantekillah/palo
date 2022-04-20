@@ -4,20 +4,14 @@
       <!-- email -->
       {% if site.email %}
       <a class="footer_btn" href="mailto://{{ site.email }}">
-         <i class="fa fa-envelope-square"> 
+        <i class="fa fa-envelope-square">
         </i>
       </a>
       {% endif %}
       <!-- linkedin -->
       {% if site.linkedin %}
-      <a
-        class="footer_btn"
-        href="https://www.linkedin.com/in/{{ site.linkedin }}"
-      >
+      <a class="footer_btn" href="https://www.linkedin.com/in/{{ site.linkedin }}">
         <i class="fa fa-linkedin">
-          {% if page.btn_text != false %}
-          <p> </p>
-          {% endif %}
         </i>
       </a>
       {% endif %}
@@ -25,28 +19,6 @@
       {% if site.github %}
       <a class="footer_btn" href="https://github.com/{{ site.github }}">
         <i class="fa fa-github">
-          {% if page.btn_text != false %}
-          {% endif %}
-        </i>
-      </a>
-      {% endif %}
-      <!-- gitlab -->
-      {% if site.gitlab %}
-      <a class="footer_btn" href="https://gitlab.com/{{ site.gitlab }}">
-        <i class="fa fa-gitlab">
-          {% if page.btn_text != false %}
-          <p> </p>
-          {% endif %}
-        </i>
-      </a>
-      {% endif %}
-      <!-- website -->
-      {% if site.website %}
-      <a class="footer_btn" href="{{ site.website }}">
-        <i class="fa fa-link">
-          {% if page.btn_text != false %}
-          <p> </p>
-          {% endif %}
         </i>
       </a>
       {% endif %}
@@ -54,18 +26,6 @@
       {% if site.twitter %}
       <a class="footer_btn" href="https://twitter.com/{{ site.twitter }}">
         <i class="fa fa-twitter">
-          {% if page.btn_text != false %}
-          {% endif %}
-        </i>
-      </a>
-      {% endif %}
-      <!-- facebook -->
-      {% if site.facebook %}
-      <a class="footer_btn" href="https://www.facebook.com/{{ site.facebook }}">
-        <i class="fa fa-facebook">
-          {% if page.btn_text != false %}
-          <p>Facebook</p>
-          {% endif %}
         </i>
       </a>
       {% endif %}
@@ -73,21 +33,13 @@
       {% if site.instagram %}
       <a class="footer_btn" href="https://instagram.com/{{ site.instagram }}">
         <i class="fa fa-instagram">
-          {% if page.btn_text != false %}
-          {% endif %}
         </i>
       </a>
       {% endif %}
       <!-- youtube -->
       {% if site.youtube %}
-      <a
-        class="footer_btn"
-        href="https://www.youtube.com/user/{{ site.youtube }}"
-      >
+      <a class="footer_btn" href="https://www.youtube.com/user/{{ site.youtube }}">
         <i class="fa fa-youtube">
-          {% if page.btn_text != false %}
-          <p>Youtube</p>
-          {% endif %}
         </i>
       </a>
       {% endif %}
@@ -95,20 +47,13 @@
       {% if site.twitch %}
       <a class="footer_btn" href="https://twitch.tv/{{ site.twitch }}">
         <i class="fa fa-twitch">
-          {% if page.btn_text != false %}
-          {% endif %}
         </i>
       </a>
       {% endif %}
       <!-- steam -->
       {% if site.steam %}
-      <a
-        class="footer_btn"
-        href="https://steamcommunity.com/id/{{ site.steam }}"
-      >
+      <a class="footer_btn" href="https://steamcommunity.com/id/{{ site.steam }}">
         <i class="fa fa-steam">
-          {% if page.btn_text != false %}
-          {% endif %}
         </i>
       </a>
       {% endif %}
@@ -116,9 +61,6 @@
     <!-- copyright -->
     <ul class="footer_copyright">
       <li class="copyright">© 2022 • BLZ Corp. • DON'T GROW UP, IT'S A TRAP!</li>
-      {% if site.statement %}
-      <li>{{ site.statement }}</li>
-      {% endif %}
     </ul>
   </nav>
 </div>
