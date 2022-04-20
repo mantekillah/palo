@@ -81,7 +81,7 @@ defaults:
       footer              : true        # whether show footer by default
 
 # 4. Social Media Accounts
-email               : "mantekillah@pm.me"
+email               : 
 linkedin            : 
 github              : "mantekillah" 
 gitlab              : 
