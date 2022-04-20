@@ -37,7 +37,7 @@ for i in range(n):
 
 ### Font style and link
 
-normal **bold** _italic_ ~~strikethrough~~ `keyword` [Link to Google](www.google.com)
+normal **bold** _italic_ ~~strikethrough~~ `keyword` [Link to Google](https://google.com)
 
 ### List
 
@@ -56,45 +56,6 @@ normal **bold** _italic_ ~~strikethrough~~ `keyword` [Link to Google](www.google
 | Nov 12, 2018 | v2.14c    | 1230 kb | No irreversible damage |
 | Nov 13, 2018 | v2.14c    | 12kb    | No irreversible damage |
 | Nov 15, 2018 | v1.99 LTS | 4kb     | Irreversible damage    |
-
-### Diagram and Chart
-
-#### Pie Chart
-
-```mermaid
-pie
-    title Pie Chart
-    "Dogs" : 36
-    "Cats" : 85
-    "Rats" : 150
-    "Pheonix" : 120
-    "Elephant" : 330 
-```
-
-#### Sequence Diagram
-
-```mermaid
-sequenceDiagram
-    Alice->>Bob: Hello Bob, how are you?
-    alt is sick
-    Bob->>Alice: Not so good :(
-    else is well
-    Bob->>Alice: Feeling fresh like a daisy
-    end
-    opt Extra response
-    Bob->>Alice: Thanks for asking
-    end
-```
-
-#### Flow Chart
-
-```mermaid
-graph LR
-A[Hard edge] -->B(Round edge)
-    B --> C{Decision}
-    C -->|One| D[Result one]
-    C -->|Two| E[Result two]
-```
 
 ### More Texts
 
