@@ -6,7 +6,7 @@ comment: true
 home_btn: true
 btn_text: true
 footer: true
-title: "• lı★ıl • BLZ • Mantekillah"
+title: "• lı★ıl • BLZ • Mantekillah •"
 author: ""
 encrypted_text: true
 permalink: /
